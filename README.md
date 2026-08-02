@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0136-single-number) |
+| [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
@@ -23,18 +24,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
