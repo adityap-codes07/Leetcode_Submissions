@@ -21,14 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
