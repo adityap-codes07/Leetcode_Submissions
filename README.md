@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
