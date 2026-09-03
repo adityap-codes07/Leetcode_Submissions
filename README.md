@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0941-valid-mountain-array) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Game Theory
 |  |
 | ------- |
