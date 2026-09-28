@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Game Theory
@@ -46,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
