@@ -20,6 +20,8 @@ class Solution:
                 return False
             if r == row - 1 and c == col - 1:
                 return balance == 0
+            if balance > (row - 1 - r) + (col - 1 - c):
+                return False
             if state in seen:
                 return seen[state]
 
