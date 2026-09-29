@@ -31,5 +31,4 @@ class Solution:
             seen[state] = ans
             return ans
         return dfs(0, 0, 0)
-        return True
                 
