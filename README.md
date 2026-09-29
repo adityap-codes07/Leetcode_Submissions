@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0941-valid-mountain-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
@@ -89,4 +91,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
