@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0338-counting-bits) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0049-group-anagrams) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0049-group-anagrams) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
