@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0049-group-anagrams) |
 | [0678-valid-parenthesis-string](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0678-valid-parenthesis-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
