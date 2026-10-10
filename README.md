@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0941-valid-mountain-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0049-group-anagrams) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -155,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0301-remove-invalid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
