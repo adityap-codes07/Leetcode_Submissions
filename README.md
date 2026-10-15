@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0941-valid-mountain-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Stack
 |  |
 | ------- |
@@ -170,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
