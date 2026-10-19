@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0941-valid-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/0049-group-anagrams) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityap-codes07/Leetcode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
